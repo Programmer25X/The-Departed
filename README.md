@@ -36,14 +36,24 @@ The Departed is a horror game set in a world in which supernatural and paranorma
 - **Documentation**: Produced thorough documentation throughout the entire planning, design, implementation, testing and evaluation phases.
 
 ----
+
+## Code Showcase
+Eventhough raw assets cannot be shared publicly, the *C#* scripts I have written are fully my own. To demonstrate my ability to script *game mechanics*:
+- Player Torch Mechanic Scripts:
+- Enemy AI FSM Scripts:
+- Player Inventory & HUD Scripts:
+
+----
+
 ## Usage & Disclaimer 
----
 - This build is provided for **educational and portfolio purposes only**.  
 - Some assets (models, textures, sounds, images) were sourced from **Unity’s free asset packs, Quixel/Fab, and other third-party libraries** available at the time of development.  
 - These assets are **included** in the **playable build repository**, but I **do not claim ownership**.  
 - All **level design, layout, integration, and scripting** work showcased in this project was carried by myself and members of my group as part of our **Game Development (Level 3) coursework**.
 - Redistribution of raw assets is **not permitted**; only the compiled build is shared publicly.
----
+
+  
+----
 
 ## Reflection
 - This was the first time I made a 3D game in *Unity*. Whilst working on our game I was able to develop a variety of skills including teamwork and leadership - which I am most proud of. In addition, one of the most rewarding aspects of working on 'The Departed' was incorporating my torch mechanic - a challenging and yet rewarding experience. I am pleased that I was able to implement the mechanic into our game as from a design perspective it provided a way of evoking tension and encouraging strategy, as the torch's light will deter the enemy away when directed at within a particular range.
