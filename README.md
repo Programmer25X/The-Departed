@@ -55,12 +55,11 @@ Eventhough raw assets cannot be shared publicly, the *C#* scripts I have written
 ----
 
 ## Used Assets & Creditation 
-- [**Flashlight 3D Model**](https://assetstore.unity.com/packages/3d/props/electronics/flashlight-18972?srsltid=AfmBOoqNr_V9DsRpaXHULNYpqzv3x817EjaE8TK_KOktgt2z0ZPjdrVV)
-- [**Flashlight Click Sound**](https://pixabay.com/sound-effects/flashlight-clicking-on-105809/)
-- [**Player Footstep Sounds**](https://pixabay.com/sound-effects/search/footsteps/)
-- [**Church 3D Model**](https://assetstore.unity.com/packages/3d/environments/fantasy/church-3d-68143)
+- [**Flashlight**](https://assetstore.unity.com/packages/3d/props/electronics/flashlight-18972?srsltid=AfmBOoqNr_V9DsRpaXHULNYpqzv3x817EjaE8TK_KOktgt2z0ZPjdrVV)
+- [**Flashlight Clicking On**](https://pixabay.com/sound-effects/flashlight-clicking-on-105809/)
+- [**Church 3D**](https://assetstore.unity.com/packages/3d/environments/fantasy/church-3d-68143)
 - [**Grave Stone Collection**](https://www.fab.com/listings/e7a027b6-357f-4fd1-bf9b-4dfd0689c185)
-- [**3D Tree Models**](https://assetstore.unity.com/packages/3d/vegetation/trees/dry-trees-86967)
+- [**Dry Trees**](https://assetstore.unity.com/packages/3d/vegetation/trees/dry-trees-86967)
 - [**Real Stars Skybox Lite**](https://assetstore.unity.com/packages/3d/environments/sci-fi/real-stars-skybox-lite-116333?srsltid=AfmBOor3GNkbYXg8zDUA09-CW-tph6LDlLRpD3ap0vwhzErrj5DEQOt8)
 - [**Stone Fence**](https://assetstore.unity.com/packages/3d/props/exterior/stone-fence-2437)
 - [**Outdoor Ground Textures**](https://assetstore.unity.com/packages/3d/props/exterior/stone-fence-2437)
