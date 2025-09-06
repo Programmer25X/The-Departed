@@ -68,6 +68,9 @@ The Departed is a horror game set in a world in which supernatural and paranorma
 ### VFX
 - [**Free Fire VFX - URP**](https://assetstore.unity.com/packages/vfx/particles/fire-explosions/free-fire-vfx-urp-266226)
 
+### Fonts
+- [**Scarekrowz Font**](https://www.fontspace.com/scarekrowz-font-f40748) — Licensed under **Freeware**
+
 
 ----
 
