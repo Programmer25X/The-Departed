@@ -75,8 +75,6 @@ The Departed is a horror game set in a world in which supernatural and paranorma
 ### Fonts
 - [**Scarekrowz Font**](https://www.fontspace.com/scarekrowz-font-f40748) — License: **Freeware**
 - [**Tomatoes Font**](www.fontspace.com/tomatoes-font-f29709) — License: **Freeware, Non-Commercial**
-- 
-
 
 ----
 
