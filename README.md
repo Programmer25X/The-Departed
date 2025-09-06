@@ -83,6 +83,7 @@ Even though raw assets cannot be shared publicly, the *C#* scripts I have writte
 
 ### Screenshots
 ![Gameplay](Media/Gameplay_Image.png)
+*Captured image demonstrating the HUD, Inventory system, Objectives and Torch Mechanic.*
 
 ----
 ## Reflection
