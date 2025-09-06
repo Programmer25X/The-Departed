@@ -48,9 +48,11 @@ Eventhough raw assets cannot be shared publicly, the *C#* scripts I have written
 ## Usage & Disclaimer 
 - This build is provided for **educational and portfolio purposes only**.  
 - Some assets (models, textures, sounds, images) were sourced from **Unity’s free asset packs, Quixel/Fab, and other third-party libraries** available at the time of development.  
+  - These assets are included in the compiled build but may not be redistributed in raw form, as per their respective licenses. 
+- Some assets are licensed under Creative Commons Attribution 4.0 (CC BY 4.0).
+  - These may be shared, redistributed, or adapted as long as proper credit is given to the original creator(s) and the license terms are followed.
 - These assets are **included** in the **playable build repository**, but I **do not claim ownership**.  
 - All **level design, layout, integration, and scripting** work showcased in this project was carried by myself and members of my group as part of our **Game Development (Level 3) coursework**.
-- Redistribution of raw assets is **not permitted**; only the compiled build is shared publicly.
 
 ----
 
