@@ -59,10 +59,11 @@ The Departed is a horror game set in a world in which supernatural and paranorma
 - [**Toyota Corola**](https://sketchfab.com/3d-models/toyota-corola-aab1b90a73f7416890c31a8927cc5038) — By **danieljorge435**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
 - [**Golden Jewelry**](https://assetstore.unity.com/packages/3d/props/clothing/accessories/golden-jewelry-use-as-necklace-bracelet-ring-215018?srsltid=AfmBOoodravj-p0LUnP8vKXNgxru1yESJ5KoZsGHyo8wny_bfergQvyR)
 - [**Rusty Black Shovel**](https://assetstore.unity.com/packages/3d/props/tools/rusty-black-shovel-73088)
+- [**Street Lamps 2**](https://assetstore.unity.com/packages/3d/props/exterior/street-lamps-2-260395#content)
 
 ### Textures & Skyboxes
 - [**Outdoor Ground Textures**](https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555?srsltid=AfmBOopY835A2keeND-UprhrlK_HoG3kA4rBjIR6Wgq-ZxzCQtxGShcU)
-- [**Real Stars Skybox Lite**](https://assetstore.unity.com/packages/3d/environments/sci-fi/real-stars-skybox-lite-116333?srsltid=AfmBOor3GNkbYXg8zDUA09-CW-tph6LDlLRpD3ap0vwhzErrj5DEQOt8)
+- [**Skybox Series Free**](https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633#content)
 
 ### Sounds
 - [**Flashlight Clicking On**](https://pixabay.com/sound-effects/flashlight-clicking-on-105809/) — [**Pixabay Content License**](https://pixabay.com/service/license-summary/)
