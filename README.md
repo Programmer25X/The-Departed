@@ -81,7 +81,7 @@ Even though raw assets cannot be shared publicly, the *C#* scripts I have writte
 
 ## Media
 
-### Screeshots
+### Screenshots
 ![Gameplay](Media/Gameplay_Image.png)
 
 ----
