@@ -57,6 +57,8 @@ The Departed is a horror game set in a world in which supernatural and paranorma
 - [**Stone Fence**](https://assetstore.unity.com/packages/3d/props/exterior/stone-fence-2437)
 - [**Handpainted Keys**](https://assetstore.unity.com/packages/3d/handpainted-keys-42044?srsltid=AfmBOopzzg4UZYQlw7kUnSvmU_M6wN7cqhwGRw6RdUFd8RfxgFGE2jys)
 - [**Toyota Corola**](https://sketchfab.com/3d-models/toyota-corola-aab1b90a73f7416890c31a8927cc5038) — By **danieljorge435**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
+- [**Golden Jewelry**](https://assetstore.unity.com/packages/3d/props/clothing/accessories/golden-jewelry-use-as-necklace-bracelet-ring-215018?srsltid=AfmBOoodravj-p0LUnP8vKXNgxru1yESJ5KoZsGHyo8wny_bfergQvyR)
+- [**Rusty Black Shovel**](https://assetstore.unity.com/packages/3d/props/tools/rusty-black-shovel-73088)
 
 ### Textures & Skyboxes
 - [**Outdoor Ground Textures**](https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555?srsltid=AfmBOopY835A2keeND-UprhrlK_HoG3kA4rBjIR6Wgq-ZxzCQtxGShcU)
