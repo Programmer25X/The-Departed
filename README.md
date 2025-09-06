@@ -59,18 +59,18 @@ Eventhough raw assets cannot be shared publicly, the *C#* scripts I have written
 ### 3D Models and Environments
 - [**Flashlight**](https://assetstore.unity.com/packages/3d/props/electronics/flashlight-18972?srsltid=AfmBOoqNr_V9DsRpaXHULNYpqzv3x817EjaE8TK_KOktgt2z0ZPjdrVV)
 - [**Church 3D**](https://assetstore.unity.com/packages/3d/environments/fantasy/church-3d-68143)
-- [**Grave Stone Collection**](https://www.fab.com/listings/e7a027b6-357f-4fd1-bf9b-4dfd0689c185): By **Kigha**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
+- [**Grave Stone Collection**](https://www.fab.com/listings/e7a027b6-357f-4fd1-bf9b-4dfd0689c185) — By **Kigha**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
 - [**Dry Trees**](https://assetstore.unity.com/packages/3d/vegetation/trees/dry-trees-86967)
 - [**Stone Fence**](https://assetstore.unity.com/packages/3d/props/exterior/stone-fence-2437)
 - [**Handpainted Keys**](https://assetstore.unity.com/packages/3d/handpainted-keys-42044?srsltid=AfmBOopzzg4UZYQlw7kUnSvmU_M6wN7cqhwGRw6RdUFd8RfxgFGE2jys)
-- [**Toyota Corola**](https://sketchfab.com/3d-models/toyota-corola-aab1b90a73f7416890c31a8927cc5038): By **danieljorge435**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
+- [**Toyota Corola**](https://sketchfab.com/3d-models/toyota-corola-aab1b90a73f7416890c31a8927cc5038) — By **danieljorge435**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
 
 ### Textures & Skyboxes
 - [**Outdoor Ground Textures**](https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555?srsltid=AfmBOopY835A2keeND-UprhrlK_HoG3kA4rBjIR6Wgq-ZxzCQtxGShcU)
 - [**Real Stars Skybox Lite**](https://assetstore.unity.com/packages/3d/environments/sci-fi/real-stars-skybox-lite-116333?srsltid=AfmBOor3GNkbYXg8zDUA09-CW-tph6LDlLRpD3ap0vwhzErrj5DEQOt8)
 
 ### Sounds
-- [**Flashlight Clicking On**](https://pixabay.com/sound-effects/flashlight-clicking-on-105809/): Licensed under the [**Pixabay Content License**](https://pixabay.com/service/license-summary/)
+- [**Flashlight Clicking On**](https://pixabay.com/sound-effects/flashlight-clicking-on-105809/) — [**Pixabay Content License**](https://pixabay.com/service/license-summary/)
 
 ### VFX
 - [**Free Fire VFX - URP**](https://assetstore.unity.com/packages/vfx/particles/fire-explosions/free-fire-vfx-urp-266226)
