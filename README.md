@@ -81,6 +81,9 @@ Even though raw assets cannot be shared publicly, the *C#* scripts I have writte
 
 ## Media
 
+### Screeshots
+![Gameplay](Media/Gameplay_Image.png)
+
 ----
 ## Reflection
 This was the first time I made a 3D game in *Unity*. Whilst working on our game I was able to develop a variety of skills including teamwork and leadership — which I am most proud of. In addition, one of the most rewarding aspects of working on 'The Departed' was incorporating my torch mechanic —  a challenging and yet rewarding experience. I am pleased that I was able to implement the mechanic into our game, as from a design perspective it provided a way of evoking tension and encouraging strategy, as the torch's light will deter the enemy when directed at them within a particular range.
