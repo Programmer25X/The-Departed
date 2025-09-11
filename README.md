@@ -62,19 +62,19 @@ The Departed is a horror game set in a world in which supernatural and paranorma
 - [**Street Lamps 2**](https://assetstore.unity.com/packages/3d/props/exterior/street-lamps-2-260395#content) — By **SpaceZeta**
 
 ### Textures & Skyboxes
-- [**Outdoor Ground Textures**](https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555?srsltid=AfmBOopY835A2keeND-UprhrlK_HoG3kA4rBjIR6Wgq-ZxzCQtxGShcU)
-- [**Skybox Series Free**](https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633#content)
-- [**Wooden Garage Door**](https://polyhaven.com/a/wooden_garage_door) — License: **CC0**
+- [**Outdoor Ground Textures**](https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555?srsltid=AfmBOopY835A2keeND-UprhrlK_HoG3kA4rBjIR6Wgq-ZxzCQtxGShcU) — By **A dog's life software**
+- [**Skybox Series Free**](https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633#content) — By **Avionx**
+- [**Wooden Garage Door**](https://polyhaven.com/a/wooden_garage_door) — By **Dimitrios Savva**, licensed under [**CC0**](https://polyhaven.com/license)
 
 ### Sounds
-- [**Flashlight Clicking On**](https://pixabay.com/sound-effects/flashlight-clicking-on-105809/) — [**Pixabay Content License**](https://pixabay.com/service/license-summary/)
+- [**Flashlight Clicking On**](https://pixabay.com/sound-effects/flashlight-clicking-on-105809/) — By **baidonovan (Freesound)**, licensed under [**Pixabay Content License**](https://pixabay.com/service/license-summary/) —
 
 ### VFX
-- [**Free Fire VFX - URP**](https://assetstore.unity.com/packages/vfx/particles/fire-explosions/free-fire-vfx-urp-266226)
+- [**Free Fire VFX - URP**](https://assetstore.unity.com/packages/vfx/particles/fire-explosions/free-fire-vfx-urp-266226) — By **Vefects**
 
 ### Fonts
-- [**Scarekrowz Font**](https://www.fontspace.com/scarekrowz-font-f40748) — License: **Freeware**
-- [**Tomatoes Font**](www.fontspace.com/tomatoes-font-f29709) — License: **Freeware, Non-Commercial**
+- [**Scarekrowz Font**](https://www.fontspace.com/scarekrowz-font-f40748) — By **deedeetype**, licensed under **Freeware**
+- [**Tomatoes Font**](https://www.fontspace.com/tomatoes-font-f29709) — By **Billy Argel Fonts**, licensed under **Freeware, Non-Commercial**
 
 ----
 
