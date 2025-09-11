@@ -67,7 +67,7 @@ The Departed is a horror game set in a world in which supernatural and paranorma
 - [**Wooden Garage Door**](https://polyhaven.com/a/wooden_garage_door) — By **Dimitrios Savva**, licensed under [**CC0**](https://polyhaven.com/license)
 
 ### Sounds
-- [**Flashlight Clicking On**](https://pixabay.com/sound-effects/flashlight-clicking-on-105809/) — By **baidonovan (Freesound)**, licensed under [**Pixabay Content License**](https://pixabay.com/service/license-summary/) —
+- [**Flashlight Clicking On**](https://pixabay.com/sound-effects/flashlight-clicking-on-105809/) — By **baidonovan (Freesound)**, licensed under [**Pixabay Content License**](https://pixabay.com/service/license-summary/)
 
 ### VFX
 - [**Free Fire VFX - URP**](https://assetstore.unity.com/packages/vfx/particles/fire-explosions/free-fire-vfx-urp-266226) — By **Vefects**
