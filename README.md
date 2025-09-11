@@ -50,16 +50,16 @@ The Departed is a horror game set in a world in which supernatural and paranorma
 ## Used Assets & Creditation 
 
 ### 3D Models and Environments
-- [**Flashlight**](https://assetstore.unity.com/packages/3d/props/electronics/flashlight-18972?srsltid=AfmBOoqNr_V9DsRpaXHULNYpqzv3x817EjaE8TK_KOktgt2z0ZPjdrVV)
-- [**Church 3D**](https://assetstore.unity.com/packages/3d/environments/fantasy/church-3d-68143)
+- [**Flashlight**](https://assetstore.unity.com/packages/3d/props/electronics/flashlight-18972?srsltid=AfmBOoqNr_V9DsRpaXHULNYpqzv3x817EjaE8TK_KOktgt2z0ZPjdrVV) — By **RRFreelance**  
+- [**Church 3D**](https://assetstore.unity.com/packages/3d/environments/fantasy/church-3d-68143) — By **AndreiCG**
 - [**Grave Stone Collection**](https://www.fab.com/listings/e7a027b6-357f-4fd1-bf9b-4dfd0689c185) — By **Kigha**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
-- [**Dry Trees**](https://assetstore.unity.com/packages/3d/vegetation/trees/dry-trees-86967)
-- [**Stone Fence**](https://assetstore.unity.com/packages/3d/props/exterior/stone-fence-2437)
-- [**Handpainted Keys**](https://assetstore.unity.com/packages/3d/handpainted-keys-42044?srsltid=AfmBOopzzg4UZYQlw7kUnSvmU_M6wN7cqhwGRw6RdUFd8RfxgFGE2jys)
+- [**Dry Trees**](https://assetstore.unity.com/packages/3d/vegetation/trees/dry-trees-86967) — By **DigitalAntichrist**
+- [**Stone Fence**](https://assetstore.unity.com/packages/3d/props/exterior/stone-fence-2437) — By **Ben Droste**
+- [**Handpainted Keys**](https://assetstore.unity.com/packages/3d/handpainted-keys-42044?srsltid=AfmBOopzzg4UZYQlw7kUnSvmU_M6wN7cqhwGRw6RdUFd8RfxgFGE2jys) — By **RoboCG**
 - [**Toyota Corola**](https://sketchfab.com/3d-models/toyota-corola-aab1b90a73f7416890c31a8927cc5038) — By **danieljorge435**, licensed under [**CC BY 4.0**](https://creativecommons.org/licenses/by/4.0/)
-- [**Golden Jewelry**](https://assetstore.unity.com/packages/3d/props/clothing/accessories/golden-jewelry-use-as-necklace-bracelet-ring-215018?srsltid=AfmBOoodravj-p0LUnP8vKXNgxru1yESJ5KoZsGHyo8wny_bfergQvyR)
-- [**Rusty Black Shovel**](https://assetstore.unity.com/packages/3d/props/tools/rusty-black-shovel-73088)
-- [**Street Lamps 2**](https://assetstore.unity.com/packages/3d/props/exterior/street-lamps-2-260395#content)
+- [**Golden Jewelry**](https://assetstore.unity.com/packages/3d/props/clothing/accessories/golden-jewelry-use-as-necklace-bracelet-ring-215018?srsltid=AfmBOoodravj-p0LUnP8vKXNgxru1yESJ5KoZsGHyo8wny_bfergQvyR) — **Snowforge**
+- [**Rusty Black Shovel**](https://assetstore.unity.com/packages/3d/props/tools/rusty-black-shovel-73088) — By **Sergi Nicolás**
+- [**Street Lamps 2**](https://assetstore.unity.com/packages/3d/props/exterior/street-lamps-2-260395#content) — By **SpaceZeta**
 
 ### Textures & Skyboxes
 - [**Outdoor Ground Textures**](https://assetstore.unity.com/packages/2d/textures-materials/floors/outdoor-ground-textures-12555?srsltid=AfmBOopY835A2keeND-UprhrlK_HoG3kA4rBjIR6Wgq-ZxzCQtxGShcU)
