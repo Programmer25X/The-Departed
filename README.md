@@ -34,7 +34,7 @@ As part of my **Game Development (Level 3) course** I pitched an idea for a horr
 ----
 
 ## Reflection
-This was the first time I developed a 3D game in *Unity*. Whilst working on our game I was able to develop a variety of transferable skills, including teamwork and leadership. One of the most rewarding aspects of working on 'The Departed' was incorporating the torch mechanic which was a challenging and rewarding experience. I am pleased that I was able to implement the mechanic into our game, as from a design perspective it provided a way of evoking tension and encouraging strategy. 
+This was the first time I developed a 3D game in *Unity*. Whilst working on our game I was able to develop a variety of transferable skills, including teamwork and leadership. One of the most rewarding aspects of working on 'The Departed' was incorporating the torch mechanic, which was a challenging and rewarding experience. I am pleased that I was able to implement the mechanic into our game, as it provided a way of evoking tension in the player and encouraging strategy. 
 
 ---
 
