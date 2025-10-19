@@ -32,7 +32,7 @@ As part of my **Game Development (Level 3) course** I pitched an idea for a horr
 *Captured image demonstrating the HUD, Inventory system, Objectives and Torch Mechanic.*
 
 ### Video
-![Gameplay]
+![Gameplay](https://drive.google.com/file/d/1eUdKaJA-v2OKtUrY-saGecZQ4j3lNPHy/view?usp=sharing)
 
 ----
 
