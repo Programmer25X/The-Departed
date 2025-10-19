@@ -3,7 +3,7 @@
 ## Overview 
 As part of my **Game Development (Level 3) course** I pitched an idea for a horror game which was voted to be worked on as our team's final group project. For three months we developed our game by using *Unity*, *Visual Studio* and *GitHub* for version control.
 
-The Departed is a horror game set in a world in which supernatural and paranormal activity often occur. In the game the player will explore a variety of locations, including cemeteries and haunted houses, to exorcise phantoms and restore balance to the natural order. 
+'The Departed' is a horror game set in a world in which supernatural and paranormal activity often occur. In the game the player will explore a variety of locations, including cemeteries and haunted houses, to exorcise phantoms and restore balance to the natural order. 
 
 ----
 
@@ -34,7 +34,7 @@ The Departed is a horror game set in a world in which supernatural and paranorma
 ----
 
 ## Reflection
-This was the first time I made a 3D game in *Unity*. Whilst working on our game I was able to develop a variety of transferable skills, including teamwork and leadership. One of the most rewarding aspects of working on 'The Departed' was incorporating the torch mechanic which was a challenging and rewarding experience. I am pleased that I was able to implement the mechanic into our game, as from a design perspective it provided a way of evoking tension and encouraging strategy. 
+This was the first time I developed a 3D game in *Unity*. Whilst working on our game I was able to develop a variety of transferable skills, including teamwork and leadership. One of the most rewarding aspects of working on 'The Departed' was incorporating the torch mechanic which was a challenging and rewarding experience. I am pleased that I was able to implement the mechanic into our game, as from a design perspective it provided a way of evoking tension and encouraging strategy. 
 
 ---
 
