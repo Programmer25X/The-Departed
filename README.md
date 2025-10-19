@@ -31,6 +31,9 @@ As part of my **Game Development (Level 3) course** I pitched an idea for a horr
 ![Gameplay](Media/Gameplay_Image.png)
 *Captured image demonstrating the HUD, Inventory system, Objectives and Torch Mechanic.*
 
+### Video
+![Gameplay]
+
 ----
 
 ## Reflection
