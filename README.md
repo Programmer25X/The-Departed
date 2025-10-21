@@ -1,9 +1,8 @@
-# The Departed - Game Development (Level 3) Coursework Project
+# The Departed
 
 ## Overview 
-As part of my **Game Development (Level 3) course** I pitched an idea for a horror game which was voted to be worked on as our team's final group project. For three months we developed our game by using *Unity*, *Visual Studio* and *GitHub* for version control.
 
-'The Departed' is a horror game set in a world in which supernatural and paranormal activity often occur. In the game the player will explore a variety of locations, including cemeteries and haunted houses, to exorcise phantoms and restore balance to the natural order. 
+'The Departed' is a horror game set in a world in which supernatural and paranormal activity often occur. In the game the player will explore a variety of locations, including cemeteries and haunted houses, to exorcise phantoms and restore balance to the natural order. For three months, I worked alongside other aspiring game developers, using *Unity*, *Visual Studio* and *GitHub* for version control to create a prototype for our game.
 
 ----
 
