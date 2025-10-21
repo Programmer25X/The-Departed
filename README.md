@@ -2,7 +2,7 @@
 
 ## Overview 
 
-'The Departed' is a horror game set in a world in which supernatural and paranormal activity often occur. In the game the player will explore a variety of locations, including cemeteries and haunted houses, to exorcise phantoms and restore balance to the natural order. For three months, I worked alongside other aspiring game developers, using *Unity*, *Visual Studio* and *GitHub* for version control to create a prototype for our game.
+'The Departed' is a horror game set in a world in which supernatural and paranormal activity often occur. In the game, the player will explore a variety of locations, including cemeteries and haunted houses, to exorcise phantoms and restore balance to the natural order. For three months, I worked alongside other aspiring game developers, using *Unity*, *Visual Studio* and *GitHub* for version control to create a prototype for our game.
 
 ----
 
