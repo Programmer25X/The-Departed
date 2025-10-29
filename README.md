@@ -14,7 +14,7 @@
 - A torch mechanic, allowing the player to emit a light from their torch, which can deter the enemy AI away if shone upon within a certain range
 
 
-## My Technical Contributions
+## My Contributions
 - Scripted the enemy AI's FSM
 - Designed and scripted the HUD
 - Developed the torch mechanic
