@@ -4,7 +4,6 @@
 
 'The Departed' is a horror game set in a world in which supernatural and paranormal activity often occur. In the game, the player will explore a variety of locations, including cemeteries and haunted houses, to exorcise phantoms and restore balance to the natural order. For three months, I worked alongside other aspiring game developers, using *Unity*, *Visual Studio* and *GitHub* for version control to create our game.
 
-----
 
 ## Current Game Features
 - One fully functional level
@@ -14,7 +13,6 @@
 - An enemy AI that detects, pursues, chases or flees from the player
 - A torch mechanic, allowing the player to emit a light from their torch, which can deter the enemy AI away if shone upon within a certain range
 
-----
 
 ## My Technical Contributions
 - Scripted the enemy AI's FSM
@@ -22,10 +20,14 @@
 - Developed the torch mechanic
 - Developed the inventory system
 
-----
+## Tools Used
+- Unity
+- Visual Studio
+- GitHub
+- Procreate
+- Figma
 
 ## Media
-
 ### Screenshots
 ![Gameplay](Media/Gameplay_Image.png)
 *Captured image demonstrating the HUD, Inventory system, Objectives and Torch Mechanic.*
@@ -33,12 +35,10 @@
 ### Video
 [Watch the Video](https://drive.google.com/file/d/1eUdKaJA-v2OKtUrY-saGecZQ4j3lNPHy/view?usp=sharing)
 
-----
 
 ## Reflection
 This was the first time I developed a 3D game in *Unity*. Whilst working on our game I was able to develop a variety of transferable skills, including teamwork and leadership. One of the most rewarding aspects of working on 'The Departed' was incorporating the torch mechanic, which was a challenging and rewarding experience. I am pleased that I was able to implement the mechanic into our game, as it provided a way of evoking tension in the player and encouraging strategy. 
 
----
 
 ## Used Assets & Creditation 
 
