@@ -12,7 +12,7 @@
 - A working inventory system for item management, allowing the player to select and use gathered items
 - A functional HUD
 - An enemy AI that detects, pursues, chases or flees from the player
-- A torch mechanic, allowing the player to emit a light from their torch, which can deter the enemy AI away if shone upon within certain range
+- A torch mechanic, allowing the player to emit a light from their torch, which can deter the enemy AI away if shone upon within a certain range
 
 ----
 
