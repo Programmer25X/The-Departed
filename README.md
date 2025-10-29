@@ -1,6 +1,4 @@
-# The Departed
-
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white">  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
+# The Departed 
 
 ## Overview 
 'The Departed' is a horror game set in a world in which supernatural and paranormal activity often occur. In the game, the player will explore a variety of locations, including cemeteries and haunted houses, to exorcise phantoms and restore balance to the natural order. For three months, I worked alongside other aspiring game developers, using *Unity*, *Visual Studio* and *GitHub* for version control to create our game.
@@ -21,12 +19,17 @@
 - Developed the torch mechanic
 - Developed the inventory system
 
-## Tools Used
+## Tools & Languages
+
+### Tools
 - Unity
 - Visual Studio
 - GitHub
 - Procreate
 - Figma
+
+### Languages
+- C#
 
 ## Media
 ### Screenshots
