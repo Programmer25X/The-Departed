@@ -35,11 +35,20 @@
 - C#
 
 ## Media
-### Screenshots
+
+### UI Designs 
+
+![BatteryPower_UI](https://github.com/user-attachments/assets/24bed494-6586-41e6-98bd-742937194190)
+*Design of the Battery Power Bar, which I created in Procreate.*
+![Stamina_UI](https://github.com/user-attachments/assets/8571eb99-fa0e-40f6-87af-d32efdbc9ea8)
+*Design of the Stamina Bar, which I created in Procreate.*
+
+### Gameplay 
+
 ![Gameplay](Media/Gameplay_Image.png)
 *Captured image demonstrating the HUD, Inventory system, Objectives and Torch Mechanic.*
 
-### Video
+#### Video
 [Watch the Video](https://drive.google.com/file/d/1eUdKaJA-v2OKtUrY-saGecZQ4j3lNPHy/view?usp=sharing)
 
 
