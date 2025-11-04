@@ -18,7 +18,7 @@
 
 ## My Contributions
 - Scripted the enemy AI's FSM
-- Designed and scripted the HUD
+- Designed, animated and scripted the HUD
 - Developed the torch mechanic
 - Developed the inventory system
 
