@@ -23,7 +23,6 @@
 - Developed the inventory system
 
 
-
 ## Tools & Languages
 
 ### Tools
@@ -42,14 +41,12 @@
 ### UI Designs 
 
 <img src = "https://github.com/user-attachments/assets/24bed494-6586-41e6-98bd-742937194190" alt = "Battery Power Bar" width = "500" witdh = "500"> <img src = "https://github.com/user-attachments/assets/a0ff886c-0161-4c5a-85de-a07350259b84" alt = "Battery Power Bar" width = "500" witdh = "500">
-<br> </br>
 *Designs for the Battery Power Bar, which I created in Procreate.*
 
-<img src = "https://github.com/user-attachments/assets/8571eb99-fa0e-40f6-87af-d32efdbc9ea8" alt = "Battery Power Bar" width = "500" witdh = "500"> 
-<img src = "https://github.com/user-attachments/assets/34bb1563-2940-4bc6-8a25-1560f8f8ed17" alt = "Battery Power Bar" width = "500" witdh = "500">
-<br> </br>
+<img src = "https://github.com/user-attachments/assets/8571eb99-fa0e-40f6-87af-d32efdbc9ea8" alt = "Battery Power Bar" width = "500" witdh = "500"> <img src = "https://github.com/user-attachments/assets/34bb1563-2940-4bc6-8a25-1560f8f8ed17" alt = "Battery Power Bar" width = "500" witdh = "500">
 *Design of the Stamina Bar, which I created in Procreate.*
-<br></br> 
+
+<br> </br>
 
 ### Gameplay 
 
