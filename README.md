@@ -22,7 +22,10 @@
 - Developed the torch mechanic
 - Developed the inventory system
 
-
+## Team Members
+* Alfie Oatley
+* Kingsly Coke
+  
 ## Tools & Languages
 
 ### Tools
