@@ -64,11 +64,11 @@
 
 
 ## Reflection
-This was the first time I developed a 3D game in *Unity*. Whilst working on our game, I was able to develop a variety of transferable skills, including teamwork and leadership. One of the most rewarding aspects of working on 'The Departed' was incorporating the torch mechanic, which was a challenging and rewarding experience. I am pleased that I was able to implement the mechanic into our game, as it provided a way of evoking tension in the player and encouraging strategy. 
+This was the first time I developed a 3D game in Unity. Whilst working on our game, I was able to develop a variety of transferable skills, including teamwork and leadership. One of the most rewarding aspects of working on 'The Departed' was incorporating the torch mechanic, which was a challenging and rewarding experience. I am pleased that I was able to implement the mechanic into our game, as it provided a way of evoking tension in the player and encouraging strategy. 
 
 
 ## Used Assets & Creditation 
-**Disclaimer**: The prototype was developed for ** educational and portfolio purposes only**. To my knowledge, the assets used and their creators have been listed, with credit being given to the creators for their work. I **do not** claim any ownership of the assets used. If there are any issues or amendments that need to be made, please contact me.
+**Disclaimer**: The prototype was developed for **educational and portfolio purposes only**. To my knowledge, the assets used and their creators have been listed, with credit being given to the creators for their work. I **do not** claim any ownership of the assets used. If there are any issues or amendments that need to be made, please contact me.
 
 
 ### 3D Models and Environments
