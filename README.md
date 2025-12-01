@@ -68,6 +68,8 @@ This was the first time I developed a 3D game in *Unity*. Whilst working on our 
 
 
 ## Used Assets & Creditation 
+**Disclaimer**: The prototype was developed for ** educational and portfolio purposes only**. To my knowledge, the assets used and their creators have been listed, with credit being given to the creators for their work. I **do not** claim any ownership of the assets used. If there are any issues or amendments that need to be made, please contact me.
+
 
 ### 3D Models and Environments
 - [**Flashlight**](https://assetstore.unity.com/packages/3d/props/electronics/flashlight-18972?srsltid=AfmBOoqNr_V9DsRpaXHULNYpqzv3x817EjaE8TK_KOktgt2z0ZPjdrVV) — By **RRFreelance**  
