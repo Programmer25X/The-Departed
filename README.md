@@ -58,7 +58,7 @@
 ### Gameplay 
 
 ![Gameplay](Media/Gameplay_Image.png)
-*Captured image demonstrating the HUD, Inventory system, Objectives and Torch Mechanic.*
+*Captured image demonstrating the HUD, inventory system, level objectives and torch mechanic.*
 
 #### Video
 [Watch the Video](https://drive.google.com/file/d/1eUdKaJA-v2OKtUrY-saGecZQ4j3lNPHy/view?usp=sharing)
