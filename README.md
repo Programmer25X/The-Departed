@@ -5,27 +5,28 @@
 
 
 ## Overview 
-'The Departed' is a horror game set in a world where supernatural and paranormal activity frequently occurs. In the game, the player will explore a variety of locations, including cemeteries and haunted houses, to exorcise phantoms and restore balance to the natural order. For three months, I worked alongside other aspiring game developers, using *Unity*, *Visual Studio* and *GitHub* for version control to create our game.
+'The Departed' is a horror game set in a world where supernatural and paranormal activity frequently occurs. In the game, the player will explore a variety of locations, including cemeteries and haunted houses, to exorcise phantoms and restore balance to the natural order. For three months, I worked alongside other game development students, using *Unity*, *Visual Studio* and *GitHub*, for version control, to create our game.
 
 
 ## Current Game Features
-- One fully functional level
+- On functional level
 - Players can freely explore the environment and complete mandatory objectives
 - A working inventory system for item management, allowing the player to select and use gathered items
-- A functional HUD
-- An enemy AI that detects, pursues, chases or flees from the player
-- A torch mechanic, allowing the player to emit a light from their torch, which can deter the enemy AI away if shone upon within a certain range
+- A functional heads-up display (HUD)
+- An enemy AI that detects, chases or flees from the player character 
+- A torch mechanic, allowing the player character to emit a light from their torch, which can deter the enemy AI away
 
 
 ## My Contributions
-- Scripted the enemy AI's FSM
+- Scripted the enemy AI's finite state machine (FSM)
 - Designed, animated and scripted the HUD
 - Developed the torch mechanic
 - Developed the inventory system
+- Developed the level manager and objectives
 
 ## Team Members
-* Alfie Oatley
-* Kingsly Coke
+* Alfie Oatley - Level designer, GUI designer snd programmer
+* Kingsly Coke - UI designer and programmer
   
 ## Tools & Languages
 
