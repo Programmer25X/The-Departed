@@ -9,7 +9,7 @@
 
 
 ## Current Game Features
-- On functional level
+- One functional level
 - Players can freely explore the environment and complete mandatory objectives
 - A working inventory system for item management, allowing the player to select and use gathered items
 - A functional heads-up display (HUD)
