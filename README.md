@@ -5,8 +5,9 @@
 
 
 ## Overview 
-'The Departed' is a horror game set in a world where supernatural and paranormal activity frequently occurs. In the game, the player will explore a variety of locations, including cemeteries and haunted houses, to exorcise phantoms and restore balance to the natural order. For three months, I worked alongside other game development students, using *Unity*, *Visual Studio* and *GitHub*, for version control, to create our game.
+'The Departed' is a horror game set in a world where supernatural and paranormal activity frequently occurs. In the game, the player will explore a variety of locations, including cemeteries and haunted houses, to exorcise phantoms and restore balance to the natural order. For three months, from Feburary 2025 to May 2025, I collaborated with other game development students, using *Unity*, *Visual Studio* and *Git* to create a prototype. 
 
+----
 
 ## Current Game Features
 - One functional level
@@ -16,30 +17,35 @@
 - An enemy AI that detects, chases or flees from the player character 
 - A torch mechanic, allowing the player character to emit a light from their torch, which can deter the enemy AI away
 
+----
 
-## My Contributions
-- Scripted the enemy AI's finite state machine (FSM)
-- Designed, animated and scripted the HUD
-- Developed the torch mechanic
-- Developed the inventory system
-- Developed the level manager and objectives
+## Technical Details & Contributions
+- **AI Finite State Mechine (FSM)**: By using control structures, enumerations, booleans and coroutines the enemy AI's FSM was implimented, allowing it to seek, chase and flee from the player character
+- **Animated Heads Up Display (HUD)**: By using UI tools and the animator, a dynamic HUD was implimneted, which displayed the player character's current stamina and the current charge of the player's torch
+- **Torch Mechanic**: 
+- **Inventory System, Objectives & Level Manager**: 
 
-## Team Members
-* Alfie Oatley - Level designer, GUI designer snd programmer
-* Kingsly Coke - GUI designer and programmer
+----
+ 
+## Collaborators 
+- **Alfie Oatley** - Level designer, GUI designer and programmer
+- **Kingsly Coke** - GUI designer and programmer
+
+----
   
 ## Tools & Languages
 
 ### Tools
 - Unity
 - Visual Studio
-- GitHub
+- Git
 - Procreate
 - Figma
 
 ### Languages
 - C#
 
+----
 
 ## Media
 
@@ -63,10 +69,12 @@
 #### Video
 [Watch the Video](https://drive.google.com/file/d/1eUdKaJA-v2OKtUrY-saGecZQ4j3lNPHy/view?usp=sharing)
 
+----
 
 ## Reflection
 This was the first time I developed a 3D game in Unity. Whilst working on our game, I was able to develop a variety of transferable skills, including teamwork and leadership, and impeove my understanding of the C# programming language. One of the most rewarding aspects of working on 'The Departed' was incorporating the torch mechanic and the enemy's FSM, which was a challenging yet rewarding experience. I am pleased that I was able to implement torch the mechanic into our prototype, as it provided a way of evoking tension within the player and encouraged the use of strategy. 
 
+----
 
 ## Used Assets & Creditation 
 **Disclaimer**: The prototype was developed for **educational and portfolio purposes only**. To my knowledge, all third-party assets used and their creators have been listed, with appropriate credit being given to the creators for their work. I do not claim any ownership of any third-party assets used. If there are any issues regarding the use of these assets or the credits, please contact me.
