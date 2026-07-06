@@ -20,10 +20,10 @@
 ----
 
 ## Technical Details & Contributions
-- **AI Finite State Mechine (FSM)**: By using control structures, enumerations, booleans and coroutines the enemy AI's FSM was implimented, allowing it to seek, chase and flee from the player character
-- **Animated Heads Up Display (HUD)**: By using UI tools and the animator, a dynamic HUD was implimneted, which displayed the player character's current stamina and the current charge of the player's torch
-- **Torch Mechanic**: 
-- **Inventory System, Objectives & Level Manager**: 
+- **AI Finite State Machine (FSM)**: Control structures, triggers, enumerations, booleans and coroutines were used to implement the enemy AI's FSM, allowing it to seek, chase and flee from the player character
+- **Animated Heads-Up Display (HUD)**: By using UI tools and the animator, a dynamic HUD was implemented, which displayed the player character's current stamina and the current charge of the player's torch
+- **Torch Mechanic**:  The Torch Mechanic was implemented by using control structures and triggers, allowing the player to shine their torch and deter the enemy away
+- **Inventory System, Objectives & Level Manager**: Arrays and booleans were utilised to create the Inventory System, Objectives System and Level Manager, allowing the player to use objects and progress within the game
 
 ----
  
