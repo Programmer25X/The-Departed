@@ -84,8 +84,7 @@ Gained Skills
 ----
 
 ## Reflection
-This was the first time I developed a 3D game in Unity. Whilst working on our game, I was able to develop a variety of transferable skills, including teamwork and leadership, and improve my understanding of the C# programming language. One of the most rewarding aspects of working on 'The Departed' was incorporating the torch mechanic and the enemy's FSM, which was a challenging yet rewarding experience. I am pleased that I was able to implement torch the mechanic into our prototype, as it provided a way of evoking tension within the player and encouraged the use of strategy.
-
+This was the first time I developed a 3D game in Unity. Whilst working on our game, I was able to develop a variety of transferable skills, including teamwork and leadership, and improve my understanding of the C# programming language. One of the most rewarding aspects of working on 'The Departed' was incorporating the Torch Mechanic and the enemy's FSM, which was a challenging yet rewarding experience. I am pleased that I was able to implement the Torch Mechanic into our prototype, as it provided a way of evoking tension within the player and encouraged the use of strategy.
 ----
 
 ## Used Assets & Creditation 
