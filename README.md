@@ -71,8 +71,21 @@
 
 ----
 
+## Gained Skills 
+Gained Skills
+
+- **Organisational Skills**: Planned, designed, implemented and tested the project, whilst ensuring to use a Gantt chart, source control and maintain backups
+- **Computational Thinking**: Utilised computational methods including decomposition, abstraction and visualisation
+- **Testing & Debugging**: Throughout the development process, source code was continuously debugged and tested to address any bugs, warnings or errors
+- **Documentation**: Produced thorough documentation throughout the entire planning, design, implementation, testing and evaluation phases
+- **Teamwork**: Effectively communicated and collaborated with peers to develop the prototype and deliver a group presentation
+- **Unity**: Created MonoBehaviour scripts and utilised the UI Toolkit, Animation Window and Lighting System
+
+----
+
 ## Reflection
 This was the first time I developed a 3D game in Unity. Whilst working on our game, I was able to develop a variety of transferable skills, including teamwork and leadership, and improve my understanding of the C# programming language. One of the most rewarding aspects of working on 'The Departed' was incorporating the torch mechanic and the enemy's FSM, which was a challenging yet rewarding experience. I am pleased that I was able to implement torch the mechanic into our prototype, as it provided a way of evoking tension within the player and encouraged the use of strategy.
+
 ----
 
 ## Used Assets & Creditation 
